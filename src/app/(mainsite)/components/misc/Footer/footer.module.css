@@ -1,7 +1,7 @@
 .footer{
     padding-top: 4vw;
     background-color: var(--dark-color);
-    color: var(--secondary-text-color);
+    color: var(--primary-text-color);
 }
 
 .footer a{
@@ -60,14 +60,14 @@
 }
 
 .listItem{
-    color: var(--secondary-text-color);
+    color: var(--primary-text-color);
     display: block;
     margin: 0.8vw 0;
     font-size: 1.2rem;
 }
 
 .listItem a, .copyright a{
-    color: var(--secondary-text-color);
+    color: var(--primary-text-color);
     text-decoration: none;
 }
 

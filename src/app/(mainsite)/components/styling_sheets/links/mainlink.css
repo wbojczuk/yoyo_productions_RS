@@ -1,9 +1,9 @@
 .main-link{
   font-family: var(--primary-font);
   font-weight: 700;
-  background-color: var(--primary-color-2);
+  background: var(--gradient-left);
   font-size: 1.5rem;
-  padding: 0.6vw 3.5vw;
+  padding: 0.8vw 3.5vw;
   color: var(--primary-text-color);
   text-decoration: none;
   overflow: hidden;
@@ -11,6 +11,7 @@
   cursor: pointer;
   display: inline-block;
   border: none;
+  border-radius: 999px;
 }
 
 .main-link::after{
@@ -44,6 +45,6 @@
 @media only screen and (max-width: 649px){
   .main-link{
     font-size: 1.8rem;
-    padding: 1.4vw 10vw;
+    padding: 1.8vw 10vw;
   }
 }
