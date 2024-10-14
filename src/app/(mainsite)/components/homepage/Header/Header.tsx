@@ -14,7 +14,7 @@ return (
         <Link className='main-link' href={`/contact`}>Contact Now</Link>
     </div>
 
-    <img src='/img/header-bg.png' alt='Image of party' className='bg-img' />
+    <img src='/img/header-bg.webp' alt='Image of party' className='bg-img' />
     <div className='shader'></div>
  </header>
 )};

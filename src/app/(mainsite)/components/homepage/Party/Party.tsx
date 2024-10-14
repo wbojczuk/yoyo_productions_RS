@@ -13,6 +13,6 @@ return (
         <Link className='main-link' href='/contact'>Contact Now</Link>
     </div>
     <div className="shader"></div>
-    <img src='/img/party.png' alt='Image of people partying' className='bg-img' />
+    <img src='/img/party.webp' alt='Image of people partying' className='bg-img' />
  </div>
 )};
